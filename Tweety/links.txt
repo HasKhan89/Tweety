@@ -1,0 +1,11 @@
+﻿TweetSharp
+https://github.com/danielcrenna/tweetsharp
+
+//Twitter Developer
+https://dev.twitter.com/
+
+// Twitter uygulamaları
+https://apps.twitter.com/
+
+// Twitter uygulama oluşturma
+http://www.mintik.com/2014/02/12/twitter-uygulama-olusturma.html
